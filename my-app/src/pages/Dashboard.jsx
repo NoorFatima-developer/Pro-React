@@ -13,7 +13,7 @@ const Dashboard = () => {
   return (
     <div className="dashboard">
       <h1>Dashboard</h1>
-      <p>Welcome to your secure dashboard!</p>
+      <p>Welcome to your <se></se>cure dashboard!</p>
       <p>This page is only visible to authenticated users.</p>
       <button onClick={handleLogout}>Logout</button>
     </div>
